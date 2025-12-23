@@ -1,0 +1,13 @@
+
+# Kalp Money Landing Page
+
+This is the landing page for Kalp Money, built with React and Vite.
+
+## Run Locally
+
+**Prerequisites:** Node.js
+
+1. Install dependencies:
+   `npm install`
+2. Run the app:
+   `npm run dev`
